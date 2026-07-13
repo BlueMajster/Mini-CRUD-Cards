@@ -1,4 +1,4 @@
-<script setup lang="js">
+<script setup>
 import { Head, Link } from '@inertiajs/vue3';
 
 defineProps({
